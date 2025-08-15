@@ -12,7 +12,7 @@ export const HeroSection = () => {
           {/* Profile Image with Frame */}
           <div className="flex justify-center">
             <img
-              src="src/assets/id pic.jpg" // <-- replace with your image path in public folder
+              src="src/assets/id pic.jpg" 
               alt="Andrei Lance Triviño"
               className="w-40 h-40 rounded-full border-4 border-primary shadow-lg object-cover opacity-0 animate-fade-in"
             />
